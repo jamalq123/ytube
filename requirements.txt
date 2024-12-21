@@ -1,8 +1,8 @@
-youtube_transcript_api 0.6.3
-streamlit  1.41.0
-google-generativeai 0.8.3
-python-dotenv  1.0.1
-pathlib  1.0.1
+youtube_transcript_api==0.6.3
+streamlit==1.41.0
+google-generativeai==0.8.3
+python-dotenv==1.0.1
+pathlib==1.0.1
 os
-spacy 3.8.3
-textblob 0.18.0.post0
+spacy==3.8.3
+textblob==0.18.0.post0
