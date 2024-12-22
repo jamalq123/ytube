@@ -3,6 +3,5 @@ streamlit==1.41.0
 google-generativeai==0.8.3
 python-dotenv==1.0.1
 pathlib==1.0.1
-os
 spacy==3.8.3
 textblob==0.18.0.post0
